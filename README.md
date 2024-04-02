@@ -19,7 +19,7 @@ Você pode acessar o projeto [aqui](https://github.com/Heberson-Vinhote/dataset_
 - Bibliotecas: scikit-learn, pandas, numpy, matplotlib
 
 ## Pessoas Contribuidoras
-- [Seu Nome](https://github.com/Heberson-Vinhote)
+- [Heberson Vinhote](https://github.com/Heberson-Vinhote)
 
 ## Licença
 Este projeto está sob a licença MIT.
