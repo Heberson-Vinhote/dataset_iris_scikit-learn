@@ -5,7 +5,7 @@
 Este projeto é um classificador de espécies de flores Iris usando a famosa base de dados Iris. Ele utiliza algoritmos de aprendizado de máquina para prever a espécie da flor com base em suas características.
 
 ## Status do Projeto
-O projeto está atualmente em desenvolvimento.
+O projeto está atualmente finalizado.
 
 ## Funcionalidades e Demonstração da Aplicação
 - Classificação de espécies de flores Iris com alta precisão.
